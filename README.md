@@ -8,6 +8,20 @@ Thanks to Norwegian Digitalisation Agency and all involved (please check https:/
 This "flattened" JSON is merely a conversion from original HTML5 document that can hopefully simplify use of Norwegian WCAG success criteria when needed.
 Hope you find it useful. This JSON should include identical information but please bear in mind that it is provided "AS IS". More info in the license.
 
+## Format
+
+JSON is a "flat" array of objects. Objects present WCAG success criterion, representative example should be self-documenting; 
+
+```
+{
+      "num":"1.1.1",
+      "txt":"Ikke-tekstlig innhold",
+      "level":"A",
+      "shortTxt":"Al <a href=\"#dfn-non-text-content\" class=\"internalDFN\" data-link-type=\"dfn\">ikke-tekstlig innhold</a> som presenteres for brukeren, har et <a href=\"#dfn-text-alternative\" class=\"internalDFN\" data-link-type=\"dfn\">tekstalternativ</a> med samme formål, med unntak av situasjonene som er beskrevet nedenfor.\n\t ",
+      "linkUnd":"https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html",
+      "linkFul":"https://www.w3.org/WAI/WCAG21/quickref/#non-text-content"
+},
+```
 
 ## Version and source
 
