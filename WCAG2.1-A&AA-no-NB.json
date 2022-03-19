@@ -1,0 +1,402 @@
+[
+  {
+    "num": "1.1.1",
+    "txt": "Ikke-tekstlig innhold",
+    "level": "A",
+    "shortTxt": "Al ikke-tekstlig innhold som presenteres for brukeren, har et tekstalternativ med samme formål, med unntak av situasjonene som er beskrevet nedenfor.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#non-text-content"
+  },
+  {
+    "num": "1.2.1",
+    "txt": "Bare lyd og bare video (forhåndsinnspilt)",
+    "level": "A",
+    "shortTxt": "For forhåndsinnspilt innhold som bare er\n\t\tlyd eller video , gjelder følgende, bortsett fra når lyden eller videoen er et mediealternativ til tekst og er tydelig merket som det:\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#audio-only-and-video-only-prerecorded"
+  },
+  {
+    "num": "1.2.2",
+    "txt": "Teksting (forhåndsinnspilt)",
+    "level": "A",
+    "shortTxt": "Det gis tilgang til teksting for alt for alt forhåndsinnspilt lydinnhold i synkroniserte medier, bortsett fra når mediene fungerer som mediealternativer til tekst og er tydelig merket som det.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#captions-prerecorded"
+  },
+  {
+    "num": "1.2.3",
+    "txt": "Synstolking eller mediealternativ (forhåndsinnspilt)",
+    "level": "A",
+    "shortTxt": "Det gis tilgang til et alternativ til tidsbaserte medier eller synstolking av forhåndsinnspilt videoinnhold i synkroniserte medier, bortsett fra når mediene fungerer som mediealternativer til tekst og er tydelig merket som det.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#audio-description-or-media-alternative-prerecorded"
+  },
+  {
+    "num": "1.2.4",
+    "txt": "Teksting (direkte)",
+    "level": "AA",
+    "shortTxt": "Det gis tilgang til teksting for alt direktesendt\n\t\tlydinnhold i synkroniserte medier.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/captions-live.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#captions-live"
+  },
+  {
+    "num": "1.2.5",
+    "txt": "Synstolking (forhåndsinnspilt)",
+    "level": "AA",
+    "shortTxt": "Det gis tilgang til synstolking for alt forhåndsinnspilt\n\t\tvideoinnhold i synkroniserte medier.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#audio-description-prerecorded"
+  },
+  {
+    "num": "1.3.1",
+    "txt": "Informasjon og relasjoner",
+    "level": "A",
+    "shortTxt": "Informasjon, struktur og relasjoner som formidles via presentasjonen kan bestemmes programmatisk eller gjøres tilgjengelig(e) som tekst.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships"
+  },
+  {
+    "num": "1.3.2",
+    "txt": "Meningsbærende rekkefølge",
+    "level": "A",
+    "shortTxt": "Når rekkefølgen som innholdet presenteres i, påvirker meningsinnholdet, kan en korrekt leserekkefølge bestemmes programmatisk.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/meaningful-sequence.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence"
+  },
+  {
+    "num": "1.3.3",
+    "txt": "Sensoriske egenskaper",
+    "level": "A",
+    "shortTxt": "Instruksjoner som gjelder for forståelse og betjening av innhold, er ikke utelukkende avhengige av komponentenes sensoriske egenskaper, som for eksempel form, farge, størrelse, visuell plassering, orientering eller lyd.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#sensory-characteristics"
+  },
+  {
+    "num": "1.3.4",
+    "txt": "Visningsretning",
+    "level": "AA",
+    "shortTxt": "Innholdet begrenser ikke visning og bruk til en bestemt visningsretning, som stående eller liggende, med mindre en bestemt visningsretning er avgjørende.",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/orientation.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#orientation"
+  },
+  {
+    "num": "1.3.5",
+    "txt": "Identifiser formål med inndata",
+    "level": "AA",
+    "shortTxt": "Formålet med hvert skjemaelement som samler inn informasjon om brukeren, kan bestemmes programmatisk når:",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/identify-input-purpose.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#identify-input-purpose"
+  },
+  {
+    "num": "1.4.1",
+    "txt": "Bruk av farge",
+    "level": "A",
+    "shortTxt": "Farge blir ikke benyttet som det eneste visuelle virkemidlet for å formidle informasjon, angi en handling, be om respons eller skille ut et visuelt element.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/use-of-color.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#use-of-color"
+  },
+  {
+    "num": "1.4.2",
+    "txt": "Styring av lyd",
+    "level": "A",
+    "shortTxt": "Dersom lyd på en nettside spilles av automatisk i mer enn 3 sekunder, finnes det enten en mekanisme for å stoppe lyden helt eller midlertidig, eller en mekanisme som kan regulere lydstyrken uavhengig av det generelle systemvolumet.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/audio-control.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#audio-control"
+  },
+  {
+    "num": "1.4.3",
+    "txt": "Kontrast (minimum)",
+    "level": "AA",
+    "shortTxt": "Den visuelle presentasjonen av tekst og bilder av tekst har et kontrastforhold på minst 4.5:1, unntatt i følgende tilfeller:\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#contrast-minimum"
+  },
+  {
+    "num": "1.4.4",
+    "txt": "Endring av tekststørrelse",
+    "level": "AA",
+    "shortTxt": "Med unntak av teksting og bilder av tekst kan tekst forstørres opp til 200 % uten bruk av hjelpemiddelteknologi og uten at innhold eller funksjonalitet går tapt.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/resize-text.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#resize-text"
+  },
+  {
+    "num": "1.4.5",
+    "txt": "Bilder av tekst",
+    "level": "AA",
+    "shortTxt": "Dersom teknologien som brukes kan håndtere den visuelle presentasjonen, brukes det tekst i stedet bilder av tekst til å formidle informasjon, unntatt i følgende tilfeller:\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/images-of-text.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#images-of-text"
+  },
+  {
+    "num": "1.4.10",
+    "txt": "Dynamisk tilpasning (Reflow)",
+    "level": "AA",
+    "shortTxt": "Innholdet kan presenteres uten tap av informasjon eller funksjonalitet og uten at brukeren må rulle i to dimensjoner ved:",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/reflow.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#reflow"
+  },
+  {
+    "num": "1.4.11",
+    "txt": "Kontrast for ikke-tekstlig innhold",
+    "level": "AA",
+    "shortTxt": "Den visuelle presentasjonen av det følgende har et kontrastforhold på minst 3:1 mot farge(r) som ligger ved siden av.",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#non-text-contrast"
+  },
+  {
+    "num": "1.4.12",
+    "txt": "Tekstavstand",
+    "level": "AA",
+    "shortTxt": "For innhold som implementeres ved hjelp av oppmerkingsspråk som støtter de følgende tekstegenskapene (text style properties), oppstår det ikke noe tap av innhold eller funksjonalitet ved å angi alle de følgende egenskapene og uten å endre andre stilegenskaper.",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#text-spacing"
+  },
+  {
+    "num": "1.4.13",
+    "txt": "Pekerfølsomt innhold eller innhold ved tastaturfokus",
+    "level": "AA",
+    "shortTxt": "Når innhold kommer til syne og så forsvinner ved at man holder musepekeren over innholdet og så flytter musepekeren vekk, eller ved at man flytter tastaturfokus til innholdet og deretter flytter fokus vekk, gjelder alle de følgende punktene:",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#content-on-hover-or-focus"
+  },
+  {
+    "num": "2.1.1",
+    "txt": "Tastatur",
+    "level": "A",
+    "shortTxt": "All funksjonalitet i innholdet kan betjenes via et tastaturgrensesnitt uten at det er behov for tidsberegning av de enkelte tastetrykkene, unntatt dersom den underliggende funksjonen krever inndata som er avhengige av rekkefølgen på brukerens bevegelser, og ikke bare av sluttpunktene.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/keyboard.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#keyboard"
+  },
+  {
+    "num": "2.1.2",
+    "txt": "Ingen tastaturfelle",
+    "level": "A",
+    "shortTxt": "Dersom tastaturfokus kan flyttes til en av komponentene på siden ved hjelp av et tastaturgrensesnitt, kan fokus flyttes fra den aktuelle komponenten bare ved hjelp av tastaturgrensesnittet. Dersom det er behov for noe annet enn standard pil- eller tabulatortaster eller andre standardmetoder for navigering, får brukeren informasjon om hvilken metode som må benyttes for å flytte fokus.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/no-keyboard-trap.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#no-keyboard-trap"
+  },
+  {
+    "num": "2.1.4",
+    "txt": "Hurtigtaster som består av ett tegn",
+    "level": "A",
+    "shortTxt": "Dersom en hurtigtast er implementert i innholdet ved å bruke kun en bokstav (inklusive store og små bokstaver), tegnsetting, siffer eller symboltegn, gjelder minst ett av følgende punkter:",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/character-key-shortcuts.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#character-key-shortcuts"
+  },
+  {
+    "num": "2.2.1",
+    "txt": "Justerbar hastighet",
+    "level": "A",
+    "shortTxt": "For hver tidsbegrensning som er angitt av innholdet, gjelder minst ett av følgende punkter:",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/timing-adjustable.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#timing-adjustable"
+  },
+  {
+    "num": "2.2.2",
+    "txt": "Pause, stopp, skjul",
+    "level": "A",
+    "shortTxt": "For bevegelse, blinking, rulling eller automatisk oppdatering av informasjon gjelder begge de følgende punkter:\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#pause-stop-hide"
+  },
+  {
+    "num": "2.3.1",
+    "txt": "Terskelverdi på maksimalt tre glimt",
+    "level": "A",
+    "shortTxt": "Nettsider har ikke innhold som glimter mer enn tre ganger i løpet av ett sekund, eller glimt er under terskelverdiene for generelle glimt og røde glimt..\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#three-flashes-or-below-threshold"
+  },
+  {
+    "num": "2.4.1",
+    "txt": "Hoppe over blokker",
+    "level": "A",
+    "shortTxt": "Det finnes en mekanisme ifor å omgå blokker med innhold som gjentas på flere nettsider.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#bypass-blocks"
+  },
+  {
+    "num": "2.4.2",
+    "txt": "Sidetitler",
+    "level": "A",
+    "shortTxt": "Nettsider har titler som beskriver den aktuelle sidens emne eller formål.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/page-titled.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#page-titled"
+  },
+  {
+    "num": "2.4.3",
+    "txt": "Fokusrekkefølge",
+    "level": "A",
+    "shortTxt": "Dersom en nettside kan navigeres sekvensielt og navigeringssekvensen påvirker betydning eller betjening, får fokuserbare komponenter fokus i en rekkefølge som ivaretar betydningen og betjeningen.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/focus-order.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#focus-order"
+  },
+  {
+    "num": "2.4.4",
+    "txt": "Formål med lenke (i kontekst)",
+    "level": "A",
+    "shortTxt": "The Formålet med hver lenke kan fastslås ut fra bare selve lenken eller ut fra lenketeksten kombinert med\n\t\tprogrammatisk bestemt lenkekontekst. Unntaket er dersom formålet med lenken ville vært flertydig for alle brukere.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-in-context"
+  },
+  {
+    "num": "2.4.5",
+    "txt": "Flere måter",
+    "level": "AA",
+    "shortTxt": "Det finnes mer enn én måte å finne fram til en nettside på innenfor et sett av nettsider. Unntaket er dersom nettsiden utgjør resultatet av, eller et trinn i, en prosess.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/multiple-ways.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#multiple-ways"
+  },
+  {
+    "num": "2.4.6",
+    "txt": "Overskrifter og ledetekster",
+    "level": "AA",
+    "shortTxt": "Overskrifter og ledetekster beskriver emne eller formål.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/headings-and-labels.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels"
+  },
+  {
+    "num": "2.4.7",
+    "txt": "Synlig fokus",
+    "level": "AA",
+    "shortTxt": "Tastaturbetjente brukergrensesnitt har en bruksmåte der fokusindikatoren for tastaturet er synlig.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/focus-visible.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#focus-visible"
+  },
+  {
+    "num": "2.5.1",
+    "txt": "Pekerbevegelser",
+    "level": "A",
+    "shortTxt": "All funksjonalitet som bruker flerpunkt eller stibaserte gester for betjening, kan betjenes med en enkelt peker uten stibasert gest, med mindre flerpunkt eller en stibasert gest er avgjørende.",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/pointer-gestures.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#pointer-gestures"
+  },
+  {
+    "num": "2.5.2",
+    "txt": "Pekeravbrytelse",
+    "level": "A",
+    "shortTxt": "For funksjonalitet som kan betjenes med en enkelt pekerbevegelse, gjelder minst ett av følgende punkter:",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#pointer-cancellation"
+  },
+  {
+    "num": "2.5.3",
+    "txt": "Ledetekst i navn",
+    "level": "A",
+    "shortTxt": "For brukergrensesnittkomponenter med ledetekster som inneholder tekst eller bilder av tekst, inneholder navnet teksten som presenteres visuelt.",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/label-in-name.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#label-in-name"
+  },
+  {
+    "num": "2.5.4",
+    "txt": "Bevegelsesaktivering",
+    "level": "A",
+    "shortTxt": "Funksjonalitet  som kan betjenes med å bevege enheten eller gjennom brukerbevegelser, kan også betjenes med brukergrensesnittkomponenter og kan slås av for å forhindre utilsiktet aktivering, unntatt ved følgende punkter:",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/motion-actuation.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#motion-actuation"
+  },
+  {
+    "num": "3.1.1",
+    "txt": "Språk på siden",
+    "level": "A",
+    "shortTxt": "Standard menneskelig språk  på hver nettside kan bli programmatisk bestemt.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/language-of-page.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#language-of-page"
+  },
+  {
+    "num": "3.1.2",
+    "txt": "Språk på deler av innhold",
+    "level": "AA",
+    "shortTxt": "Menneskelig språk i de enkelte avsnittene eller setningene som innholdet består av, kan bli programmatisk bestemt. Unntaket er egennavn, tekniske termer, ord av ubestemmelig språklig opphav samt ord eller uttrykk som har blitt en del av språket i den omkringliggende teksten.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/language-of-parts.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#language-of-parts"
+  },
+  {
+    "num": "3.2.1",
+    "txt": "Fokus",
+    "level": "A",
+    "shortTxt": "Når en  brukergrensesnittkomponent kommer i fokus, medfører det ikke kontekstendring.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/on-focus.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#on-focus"
+  },
+  {
+    "num": "3.2.2",
+    "txt": "Inndata",
+    "level": "A",
+    "shortTxt": "Endring av innstillingene til en  brukergrensesnittkomponent  medfører ikke automatisk kontekstendring med mindre brukeren er blitt varslet om det før bruk av komponenten.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/on-input.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#on-input"
+  },
+  {
+    "num": "3.2.3",
+    "txt": "Konsekvent navigering",
+    "level": "AA",
+    "shortTxt": "Navigeringsmekanismer som gjentas på flere nettsider innenfor et sett av nettsider, opptrer i samme relative rekkefølge hver gang de gjentas, med mindre brukeren selv foretar en endring.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/consistent-navigation.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#consistent-navigation"
+  },
+  {
+    "num": "3.2.4",
+    "txt": "Konsekvent identifikasjon",
+    "level": "AA",
+    "shortTxt": "Komponenter som har samme funksjonalitet  innenfor et sett av nettsider, identifiseres på en konsekvent måte.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/consistent-identification.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#consistent-identification"
+  },
+  {
+    "num": "3.3.1",
+    "txt": "Identifikasjon av feil",
+    "level": "A",
+    "shortTxt": "Dersom en inndatafeil oppdages automatisk, identifiseres elementet som feilen berører, og brukeren får en tekstbeskrivelse av feilen.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/error-identification.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#error-identification"
+  },
+  {
+    "num": "3.3.2",
+    "txt": "Ledetekster eller instruksjoner",
+    "level": "A",
+    "shortTxt": "Der vises ledetekster eller instruksjoner når innholdet krever inndata fra brukeren.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/labels-or-instructions.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#labels-or-instructions"
+  },
+  {
+    "num": "3.3.3",
+    "txt": "Forslag ved feil",
+    "level": "AA",
+    "shortTxt": "Dersom en inndatafeil oppdages automatisk og det finnes forslag til hvordan den kan korrigeres, presenteres forslagene for brukeren, med mindre dette innebærer risiko for sikkerheten eller formålet med innholdet.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/error-suggestion.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#error-suggestion"
+  },
+  {
+    "num": "3.3.4",
+    "txt": "Forhindring av feil (juridiske feil, økonomiske feil, datafeil)",
+    "level": "AA",
+    "shortTxt": "For nettsider som medfører juridiske forpliktelser eller krever økonomiske transaksjoner fra brukeren, som endrer eller sletter brukerstyrte data i datalagringssystemer, eller som sender svar på tester utført av brukeren, gjelder minst ett av følgende punkter:\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/error-prevention-legal-financial-data.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#error-prevention-legal-financial-data"
+  },
+  {
+    "num": "4.1.1",
+    "txt": "Parsing (oppdeling)",
+    "level": "A",
+    "shortTxt": "I innhold som implementeres ved hjelp av oppmerkingsspråk, har elementene fullstendige start- og sluttkoder, elementene er nøstet i henhold til spesifikasjonene, elementene inneholder ikke dupliserte attributter, og eventuelle ID-er er unike. Unntaket er dersom spesifikasjonene tillater disse egenskapene.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/parsing.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#parsing"
+  },
+  {
+    "num": "4.1.2",
+    "txt": "Navn, rolle, verdi",
+    "level": "A",
+    "shortTxt": "For alle brukergrensesnittkomponenter  (blant annet skjemaelementer, lenker og komponenter som genereres ved hjelp av skript), kan navn og rolle bestemmes programmatisk. Tilstander, egenskaper og verdier som kan angis av brukeren, kan angis programmatisk, og informasjon om endringer i disse elementene er tilgjengelig for brukeragenter, herunder hjelpemiddelteknologi.\n\t ",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/name-role-value.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#name-role-value"
+  },
+  {
+    "num": "4.1.3",
+    "txt": "Statusbeskjeder",
+    "level": "AA",
+    "shortTxt": "I innhold som implementeres ved hjelp av oppmerkingsspråk, kan statusbeskjeder bestemmes programmatisk gjennom rolle eller egenskaper, slik at de kan presenteres for brukeren med hjelpemiddelteknologi uten å få fokus.",
+    "linkUnd": "https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html",
+    "linkFul": "https://www.w3.org/WAI/WCAG21/quickref/#status-messages"
+  }
+]
